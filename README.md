@@ -1,6 +1,6 @@
-#Life Game
+# Life Game
 
-##GUI Description
+## GUI Description
 Name | Description
 --- | ---
 RUN | Run life game
